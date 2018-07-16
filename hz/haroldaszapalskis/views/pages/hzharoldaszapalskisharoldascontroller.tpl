@@ -1,0 +1,2 @@
+<h1>A Blank HaroldasController Template</h1>
+<p>This is a template located in /var/www/oxideshop/source/modules/hz/haroldaszapalskis/views/pages/hzharoldaszapalskisharoldascontroller.tpl belonging to class hzHaroldasZapalskisHaroldasController</p>
